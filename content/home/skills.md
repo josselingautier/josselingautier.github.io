@@ -18,4 +18,5 @@ feature:
     icon_pack: fas
     name: Photography
 widget_id: recent
+active: false
 ---
