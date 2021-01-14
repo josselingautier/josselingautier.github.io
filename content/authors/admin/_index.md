@@ -31,11 +31,14 @@ organizations:
 education:
   courses:
     - course: Post-doctorate in Vision Science and Optometry
+      institution: UC Berkeley
+      year: 2028
+    - course: Post-doctorate in Vision Science and Optometry
       institution: Anglia Ruskin Cambridge, UK
       year: 2015
     - course: PhD in Computer Science (Vision Modeling)
       institution: Université of Rennes I
-      year: 2001
+      year: 2012
     - course: MEng in Electronic and Digital Technologies
       institution: Université of Nantes Polytechnique Nantes graduate school
       year: 2008
