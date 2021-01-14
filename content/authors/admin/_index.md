@@ -1,8 +1,8 @@
 ---
 title: Josselin Gautier, PhD
 role: Researcher in vision science
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests covers the understanding of vision, from photons to
+  the retinal and first cortical layers.
 interests:
   - Vision_science
   - eye_movements
@@ -43,8 +43,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Josselin Gautier is a researcher in vision science, optometry and  ophthalmology.
+Josselin Gautier is a researcher in Vision Science and Optometry approaching the last  challenges of retinal disorders in Ophthalmology.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
