@@ -26,8 +26,10 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Paris Eye Imaging - INSERM - Quinze-Vingt National Ophthalmology Hospital
+    url: https://www.pariseyeimaging.com/
+  - name: UC Berkeley - School of Optometry
+    url: https://optometry.berkeley.edu/
 education:
   courses:
     - course: Post-doctorate in Vision Science and Optometry
