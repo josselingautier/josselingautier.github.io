@@ -4,7 +4,7 @@ url_pdf: ""
 summary: An example of using the in-built project page.
 authors: []
 url_video: ""
-date: 2016-04-27T00:00:00Z
+date: 2016-04-27T00:00:00.000Z
 external_link: http://toto.com
 url_slides: ""
 title: "Retinal Sensitivity and Directionality "
@@ -18,7 +18,7 @@ links:
     name: Follow
     url: https://twitter.com/georgecushen
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Capture from a Scanning Laser Ophtahlmoscope
   focal_point: Smart
 url_code: ""
 ---
