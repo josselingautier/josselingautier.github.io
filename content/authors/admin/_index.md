@@ -30,9 +30,9 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: Post-doctorate in Vision Science and Optometry
+      institution: Anglia Ruskin Cambridge, UK
+      year: 2015
     - course: PhD in Computer Science (Vision Modeling)
       institution: Université of Rennes I
       year: 2001
