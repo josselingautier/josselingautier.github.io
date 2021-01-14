@@ -11,6 +11,7 @@ title: "Retinal Sensitivity and Directionality "
 subtitle: using conventional microperimetry and a multimodal imaging approach
 tags:
   - Optometry
+  - Retina
 links:
   - icon: twitter
     icon_pack: fab
