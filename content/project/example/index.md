@@ -7,7 +7,8 @@ url_video: ""
 date: 2016-04-27T00:00:00Z
 external_link: http://toto.com
 url_slides: ""
-title: Example Project
+title: "Retinal Sensitivity and Directionality "
+subtitle: using conventional microperimetry and a multimodal imaging approach
 tags:
   - Optometry
 links:
