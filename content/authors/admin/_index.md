@@ -41,7 +41,7 @@ education:
     - course: PhD in Computer Science (Vision Modeling)
       institution: Université of Rennes I
       year: 2012
-    - course: MEng in Electronic and Digital Technologies
+    - course: MEng in Electronic and Digital Systems
       institution: Université of Nantes Polytechnique Nantes graduate school
       year: 2008
 email: ""
