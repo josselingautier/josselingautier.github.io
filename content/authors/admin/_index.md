@@ -34,7 +34,7 @@ education:
   courses:
     - course: Post-doctorate in Vision Science and Optometry
       institution: UC Berkeley
-      year: 2028
+      year: 202
     - course: Post-doctorate in Vision Science and Optometry
       institution: Anglia Ruskin Cambridge, UK
       year: 2015
