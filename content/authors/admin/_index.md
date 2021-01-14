@@ -33,11 +33,11 @@ education:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Computer Science (Vision Modeling)
+      institution: Université of Rennes I
+      year: 2001
+    - course: MEng in Electronic and Digital Technologies
+      institution: Université of Nantes Polytechnique Nantes graduate school
       year: 2008
 email: ""
 superuser: true
